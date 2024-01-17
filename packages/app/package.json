@@ -1,0 +1,8 @@
+{
+  "name": "@module-resolution-repro/app",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@module-resolution-repro/lib": "file:../lib"
+  }
+}

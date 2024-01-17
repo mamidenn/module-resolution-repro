@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "composite": true,
+    "module": "ES2015",
+    "moduleResolution": "Bundler"
+  }
+}
